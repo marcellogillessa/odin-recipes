@@ -11,7 +11,8 @@ body {
     border:10px;
     border-radius: 1%;
     background-color: #fff;
-    max-width: 900px;
+    max-width: 1000px;
+    margin: auto;
 }
 
 h1, h2 {
